@@ -22,7 +22,7 @@ image:
 
 
 
-//代码片段
+//
 int main(){
   hello world;
 }
@@ -31,6 +31,3 @@ int main(){
 ![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
 
 ![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86"
-        src="//music.163.com/outchain/player?type=2&id=28723836&auto=1&height=66"> </iframe>
